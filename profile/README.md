@@ -4,6 +4,7 @@
 
 **Deutsche Gaming-Community · German Gaming Community**
 
+[![Discord](https://img.shields.io/badge/Discord-Beitreten-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/dx2q8wNM9U)
 [![Contact](https://img.shields.io/badge/Kontakt-info%40gamezoneone.de-blue?style=flat-square&logo=mail.ru)](mailto:info@gamezoneone.de)
 
 </div>
@@ -28,6 +29,7 @@ Wir betreiben eigene Gameserver, entwickeln Custom-Plugins für Oxide/uMod und b
 
 Bei Fragen, Anregungen oder Interesse an einer Zusammenarbeit, wende dich gerne direkt an uns:
 
+💬 [Discord beitreten](https://discord.gg/dx2q8wNM9U)  
 📧 [info@gamezoneone.de](mailto:info@gamezoneone.de)
 
 ---
@@ -50,4 +52,5 @@ We run our own game servers, develop custom Oxide/uMod plugins, and build infras
 
 For questions, suggestions, or interest in collaboration, feel free to reach out:
 
+💬 [Join our Discord](https://discord.gg/dx2q8wNM9U)  
 📧 [info@gamezoneone.de](mailto:info@gamezoneone.de)
