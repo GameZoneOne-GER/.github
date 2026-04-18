@@ -1,0 +1,53 @@
+<div align="center">
+
+# 🎮 GameZoneOne
+
+**Deutsche Gaming-Community · German Gaming Community**
+
+[![Contact](https://img.shields.io/badge/Kontakt-info%40gamezoneone.de-blue?style=flat-square&logo=mail.ru)](mailto:info@gamezoneone.de)
+
+</div>
+
+---
+
+## 🇩🇪 Deutsch
+
+**GameZoneOne** ist eine deutsche Gaming-Community mit dem Schwerpunkt auf Rust-Servern und der Entwicklung eigener Plugins, Bots und Tools rund um das Spielerlebnis.
+
+Wir betreiben eigene Gameserver, entwickeln Custom-Plugins für Oxide/uMod und bauen Infrastruktur-Tools, um unseren Spielern das bestmögliche Erlebnis zu bieten.
+
+### Was wir machen
+
+| | |
+|---|---|
+| 🖥️ **Rust Gameserver** | Eigene Server mit individuellen Konfigurationen und Custom-Content |
+| 🔧 **Custom Plugins** | Oxide/uMod Plugins, speziell entwickelt für unsere Community |
+| 🤖 **Discord Bot** | Eigener Bot für Community-Management und Server-Integration |
+
+### Kontakt
+
+Bei Fragen, Anregungen oder Interesse an einer Zusammenarbeit, wende dich gerne direkt an uns:
+
+📧 [info@gamezoneone.de](mailto:info@gamezoneone.de)
+
+---
+
+## 🇬🇧 English
+
+**GameZoneOne** is a German gaming community focused on Rust servers and the development of custom plugins, bots, and tools to enhance the gaming experience.
+
+We run our own game servers, develop custom Oxide/uMod plugins, and build infrastructure tools to provide the best possible experience for our players.
+
+### What we do
+
+| | |
+|---|---|
+| 🖥️ **Rust Game Servers** | Own servers with custom configurations and unique content |
+| 🔧 **Custom Plugins** | Oxide/uMod plugins built specifically for our community |
+| 🤖 **Discord Bot** | Custom bot for community management and server integration |
+
+### Contact
+
+For questions, suggestions, or interest in collaboration, feel free to reach out:
+
+📧 [info@gamezoneone.de](mailto:info@gamezoneone.de)
