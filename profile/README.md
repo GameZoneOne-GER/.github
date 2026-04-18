@@ -33,6 +33,7 @@ Wir betreiben eigene Gameserver, entwickeln Custom-Plugins für Oxide/uMod und b
 | [BaseDome](https://github.com/GameZoneOne-GER/BaseDome) | Zeigt den Bauberechtigungs-Radius als visuelle Kugel an |
 | [HelpCenterUI](https://github.com/GameZoneOne-GER/HelpCenterUI) | In-game Hilfecenter mit Kategorien, Unterseiten und Admin-Editierung |
 | [ZombieMonsters](https://github.com/GameZoneOne-GER/ZombieMonsters) | Spawnt Scarecrow-NPCs in PvP-Zonen mit Purge- und MonumentEvents-Integration |
+| [GameZoneReportUI](https://github.com/GameZoneOne-GER/GameZoneReportUI) | In-game Meldesystem mit CUI-Formular, Discord-Webhook und Umfeld-Snapshot |
 
 ### Kontakt
 
@@ -65,6 +66,7 @@ We run our own game servers, develop custom Oxide/uMod plugins, and build infras
 | [BaseDome](https://github.com/GameZoneOne-GER/BaseDome) | Visualizes the building privilege radius as a transparent sphere |
 | [HelpCenterUI](https://github.com/GameZoneOne-GER/HelpCenterUI) | In-game help center with categories, subcategories and admin editing |
 | [ZombieMonsters](https://github.com/GameZoneOne-GER/ZombieMonsters) | Spawns Scarecrow NPCs in PvP zones with Purge and MonumentEvents integration |
+| [GameZoneReportUI](https://github.com/GameZoneOne-GER/GameZoneReportUI) | In-game player report system with CUI form, Discord webhook and environment snapshot |
 
 ### Contact
 
