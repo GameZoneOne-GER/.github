@@ -25,6 +25,15 @@ Wir betreiben eigene Gameserver, entwickeln Custom-Plugins für Oxide/uMod und b
 | 🔧 **Custom Plugins** | Oxide/uMod Plugins, speziell entwickelt für unsere Community |
 | 🤖 **Discord Bot** | Eigener Bot für Community-Management und Server-Integration |
 
+### Open-Source Plugins
+
+| Plugin | Beschreibung |
+|--------|-------------|
+| [EntityLabel](https://github.com/GameZoneOne-GER/EntityLabel) | Beliebige Entities in-game beschriften — Label erscheint beim Draufschauen |
+| [BaseDome](https://github.com/GameZoneOne-GER/BaseDome) | Zeigt den Bauberechtigungs-Radius als visuelle Kugel an |
+| [HelpCenterUI](https://github.com/GameZoneOne-GER/HelpCenterUI) | In-game Hilfecenter mit Kategorien, Unterseiten und Admin-Editierung |
+| [ZombieMonsters](https://github.com/GameZoneOne-GER/ZombieMonsters) | Spawnt Scarecrow-NPCs in PvP-Zonen mit Purge- und MonumentEvents-Integration |
+
 ### Kontakt
 
 Bei Fragen, Anregungen oder Interesse an einer Zusammenarbeit, wende dich gerne direkt an uns:
@@ -47,6 +56,15 @@ We run our own game servers, develop custom Oxide/uMod plugins, and build infras
 | 🖥️ **Rust Game Servers** | Own servers with custom configurations and unique content |
 | 🔧 **Custom Plugins** | Oxide/uMod plugins built specifically for our community |
 | 🤖 **Discord Bot** | Custom bot for community management and server integration |
+
+### Open-Source Plugins
+
+| Plugin | Description |
+|--------|-------------|
+| [EntityLabel](https://github.com/GameZoneOne-GER/EntityLabel) | Label any deployed entity — text appears when looking at it |
+| [BaseDome](https://github.com/GameZoneOne-GER/BaseDome) | Visualizes the building privilege radius as a transparent sphere |
+| [HelpCenterUI](https://github.com/GameZoneOne-GER/HelpCenterUI) | In-game help center with categories, subcategories and admin editing |
+| [ZombieMonsters](https://github.com/GameZoneOne-GER/ZombieMonsters) | Spawns Scarecrow NPCs in PvP zones with Purge and MonumentEvents integration |
 
 ### Contact
 
